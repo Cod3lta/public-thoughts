@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-05-25T21:11:55.905+02:00
-modified: 2026-07-29T16:41:53.565+02:00
+modified: 2026-07-29T16:52:05.364+02:00
 ---
 
 | Nome                             | A pagato?   | Corona | Saluto del Commandante | Genitori + Commandante | Giuramento |
@@ -20,7 +20,7 @@ modified: 2026-07-29T16:41:53.565+02:00
 | FREY Marius Alexander Raphael    | Twint 13.07 | ✅      | ✅                      | ✅                      |            |
 | GARCÉS GARCIA Simón              |             | ✅      | ✅                      | ✅                      |            |
 | GIROUD Arno                      | Twint 14.07 | (1)    | ✅                      | ✅                      | ✅          |
-| IANNALFO Davide                  |             |        |                        |                        |            |
+| IANNALFO Davide                  |             | ✅      |                        |                        |            |
 | IMHOF Jonas                      |             |        |                        |                        |            |
 | ISELI Noël                       |             |        |                        |                        |            |
 | KONDRACKI Ignacy                 |             |        |                        |                        |            |
